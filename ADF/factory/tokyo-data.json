@@ -1,0 +1,9 @@
+{
+	"name": "tokyo-data",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e0e36d0b-8685-4556-8222-906f88f4f355",
+		"tenantId": "65ec0a32-2c09-4d55-8134-b0938bc3aaac"
+	}
+}
