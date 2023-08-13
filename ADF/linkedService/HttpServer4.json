@@ -1,0 +1,12 @@
+{
+	"name": "HttpServer4",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com/alpha-404-pro/tokyo-olympic-data-engineering/main/dataset/Teams.csv",
+			"enableServerCertificateValidation": false,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
