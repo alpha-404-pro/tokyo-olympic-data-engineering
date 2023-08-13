@@ -1,0 +1,12 @@
+{
+	"name": "athelets",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com/alpha-404-pro/tokyo-olympic-data-engineering/main/dataset/Athletes.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
