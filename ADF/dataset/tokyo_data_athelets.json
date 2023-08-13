@@ -1,0 +1,21 @@
+{
+	"name": "tokyo_data_athelets",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "athelets",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "HttpServerLocation"
+			},
+			"columnDelimiter": ",",
+			"escapeChar": "\\",
+			"firstRowAsHeader": true,
+			"quoteChar": "\""
+		},
+		"schema": []
+	}
+}
