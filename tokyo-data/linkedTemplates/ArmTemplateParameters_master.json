@@ -8,10 +8,46 @@
 		"AzureDataLakeStorage1_accountKey": {
 			"value": ""
 		},
+		"AzureDataLakeStorage2_accountKey": {
+			"value": ""
+		},
+		"AzureDataLakeStorage3_accountKey": {
+			"value": ""
+		},
+		"AzureDataLakeStorage4_accountKey": {
+			"value": ""
+		},
+		"AzureDataLakeStorage5_accountKey": {
+			"value": ""
+		},
 		"HttpServer1_properties_typeProperties_url": {
 			"value": "https://raw.githubusercontent.com/alpha-404-pro/tokyo-olympic-data-engineering/425a28af05b0a8895b1d7efabfeb7e5fd1500ded/dataset/Medals.csv"
 		},
 		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://tokyoolympicdata123.dfs.core.windows.net/"
+		},
+		"athelets_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/alpha-404-pro/tokyo-olympic-data-engineering/main/dataset/Athletes.csv"
+		},
+		"AzureDataLakeStorage2_properties_typeProperties_url": {
+			"value": "https://tokyoolympicdata123.dfs.core.windows.net/"
+		},
+		"HttpServer2_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/alpha-404-pro/tokyo-olympic-data-engineering/main/dataset/Coaches.csv"
+		},
+		"AzureDataLakeStorage3_properties_typeProperties_url": {
+			"value": "https://tokyoolympicdata123.dfs.core.windows.net/"
+		},
+		"HttpServer3_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/alpha-404-pro/tokyo-olympic-data-engineering/main/dataset/EntriesGender.csv"
+		},
+		"AzureDataLakeStorage4_properties_typeProperties_url": {
+			"value": "https://tokyoolympicdata123.dfs.core.windows.net/"
+		},
+		"HttpServer4_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/alpha-404-pro/tokyo-olympic-data-engineering/main/dataset/Teams.csv"
+		},
+		"AzureDataLakeStorage5_properties_typeProperties_url": {
 			"value": "https://tokyoolympicdata123.dfs.core.windows.net/"
 		},
 		"containerUri": {
